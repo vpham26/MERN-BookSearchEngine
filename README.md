@@ -1,11 +1,11 @@
 <h1 align="center"> MERN - Book Search Engine </h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/vpham26/" />
-    <img src="https://img.shields.io/github/languages/top/vpham26/"  />
-    <img src="https://img.shields.io/github/issues/vpham26/" />
-    <img src="https://img.shields.io/github/last-commit/vpham26/" >
-    <a href="https://github.com/vpham26"><img src="https://img.shields.io/github/followers/vpham26?style=social" target="_blank" /></a>
+    <img src="https://img.shields.io/github/repo-size/vpham26/MERN-BookSearchEngine" />
+    <img src="https://img.shields.io/github/languages/top/vpham26/MERN-BookSearchEngine"  />
+    <img src="https://img.shields.io/github/issues/vpham26/MERN-BookSearchEngine" />
+    <img src="https://img.shields.io/github/last-commit/vpham26/MERN-BookSearchEngine" >
+    <a href="https://github.com/vpham26/MERN-BookSearchEngine"><img src="https://img.shields.io/github/followers/vpham26?style=social" target="_blank" /></a>
 </p>
   
 <p align="center">
@@ -42,13 +42,17 @@
 </br>
 
 ## User Story
+
 </br>
+
 ```
 
 ```
 
 ## Acceptance Criteria
+
 </br>
+
 ```
 
 ```
